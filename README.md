@@ -10,7 +10,7 @@ Getting Started
 
 How to run:
 Clone the repo, install dependencies, and run tests:
-git clone https://github.com/your-username/your-repo-name.git && \
+git clone https://github.com/Osemudiamhe/uitesting-playground-cypress.git && \
 
 change directory to your repository name:
 cd your-repo-name 
